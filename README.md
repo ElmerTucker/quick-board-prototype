@@ -17,13 +17,14 @@ The intent of quick-board-prototype is to have a set of quickly iterable core fi
 - Assets
   - Art
   - Data
-    - SimpleDeck.md
+    - SimpleDeck.csv
     - SimpleRules.md
 - Notes
+  - Design
+    - DesignDoc.md
   - Playtest
     - PlaytestNotesTemplate.md
 - Export
 - README.md
-- DesignDoc.md
 - Changelog.md
 - Components.md
